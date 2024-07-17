@@ -1,0 +1,8 @@
+D:\FPT Course\Summer2024\PRN221\Code\Class\Assigment3\SigNalR_Web\obj\Debug\net7.0\SigNalR_Web.csproj.AssemblyReference.cache
+D:\FPT Course\Summer2024\PRN221\Code\Class\Assigment3\SigNalR_Web\obj\Debug\net7.0\SigNalR_Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT Course\Summer2024\PRN221\Code\Class\Assigment3\SigNalR_Web\obj\Debug\net7.0\SigNalR_Web.AssemblyInfoInputs.cache
+D:\FPT Course\Summer2024\PRN221\Code\Class\Assigment3\SigNalR_Web\obj\Debug\net7.0\SigNalR_Web.AssemblyInfo.cs
+D:\FPT Course\Summer2024\PRN221\Code\Class\Assigment3\SigNalR_Web\obj\Debug\net7.0\SigNalR_Web.csproj.CoreCompileInputs.cache
+D:\FPT Course\Summer2024\PRN221\Code\Class\Assigment3\SigNalR_Web\obj\Debug\net7.0\SigNalR_Web.MvcApplicationPartsAssemblyInfo.cache
+D:\FPT Course\Summer2024\PRN221\Code\Class\Assigment3\SigNalR_Web\obj\Debug\net7.0\SigNalR_Web.RazorAssemblyInfo.cache
+D:\FPT Course\Summer2024\PRN221\Code\Class\Assigment3\SigNalR_Web\obj\Debug\net7.0\SigNalR_Web.RazorAssemblyInfo.cs

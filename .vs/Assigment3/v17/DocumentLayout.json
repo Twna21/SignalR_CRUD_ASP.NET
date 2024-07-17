@@ -1,0 +1,470 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{943900E9-C68B-4185-AB9A-B71173208974}|BusinessObject\\BusinessObject.csproj|d:\\fpt course\\summer2024\\prn221\\code\\class\\assigment3\\businessobject\\businessobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{943900E9-C68B-4185-AB9A-B71173208974}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\businessobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C251AF3F-A050-48B6-ADF1-F5BF847BB358}|WebApplication1\\WebApplication1.csproj|d:\\fpt course\\summer2024\\prn221\\code\\class\\assigment3\\webapplication1\\wwwroot\\js\\post.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C251AF3F-A050-48B6-ADF1-F5BF847BB358}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\js\\post.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C251AF3F-A050-48B6-ADF1-F5BF847BB358}|WebApplication1\\WebApplication1.csproj|d:\\fpt course\\summer2024\\prn221\\code\\class\\assigment3\\webapplication1\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C251AF3F-A050-48B6-ADF1-F5BF847BB358}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C251AF3F-A050-48B6-ADF1-F5BF847BB358}|WebApplication1\\WebApplication1.csproj|d:\\fpt course\\summer2024\\prn221\\code\\class\\assigment3\\webapplication1\\controllers\\appuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C251AF3F-A050-48B6-ADF1-F5BF847BB358}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\appuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C251AF3F-A050-48B6-ADF1-F5BF847BB358}|WebApplication1\\WebApplication1.csproj|d:\\fpt course\\summer2024\\prn221\\code\\class\\assigment3\\webapplication1\\views\\posts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C251AF3F-A050-48B6-ADF1-F5BF847BB358}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\posts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C251AF3F-A050-48B6-ADF1-F5BF847BB358}|WebApplication1\\WebApplication1.csproj|d:\\fpt course\\summer2024\\prn221\\code\\class\\assigment3\\webapplication1\\views\\appusers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C251AF3F-A050-48B6-ADF1-F5BF847BB358}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\appusers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C251AF3F-A050-48B6-ADF1-F5BF847BB358}|WebApplication1\\WebApplication1.csproj|d:\\fpt course\\summer2024\\prn221\\code\\class\\assigment3\\webapplication1\\views\\posts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C251AF3F-A050-48B6-ADF1-F5BF847BB358}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\posts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943900E9-C68B-4185-AB9A-B71173208974}|BusinessObject\\BusinessObject.csproj|d:\\fpt course\\summer2024\\prn221\\code\\class\\assigment3\\businessobject\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{943900E9-C68B-4185-AB9A-B71173208974}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943900E9-C68B-4185-AB9A-B71173208974}|BusinessObject\\BusinessObject.csproj|d:\\fpt course\\summer2024\\prn221\\code\\class\\assigment3\\businessobject\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{943900E9-C68B-4185-AB9A-B71173208974}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C251AF3F-A050-48B6-ADF1-F5BF847BB358}|WebApplication1\\WebApplication1.csproj|d:\\fpt course\\summer2024\\prn221\\code\\class\\assigment3\\webapplication1\\views\\appusers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C251AF3F-A050-48B6-ADF1-F5BF847BB358}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\appusers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943900E9-C68B-4185-AB9A-B71173208974}|BusinessObject\\BusinessObject.csproj|d:\\fpt course\\summer2024\\prn221\\code\\class\\assigment3\\businessobject\\postcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{943900E9-C68B-4185-AB9A-B71173208974}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\postcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C251AF3F-A050-48B6-ADF1-F5BF847BB358}|WebApplication1\\WebApplication1.csproj|d:\\fpt course\\summer2024\\prn221\\code\\class\\assigment3\\webapplication1\\views\\posts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C251AF3F-A050-48B6-ADF1-F5BF847BB358}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\posts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C251AF3F-A050-48B6-ADF1-F5BF847BB358}|WebApplication1\\WebApplication1.csproj|d:\\fpt course\\summer2024\\prn221\\code\\class\\assigment3\\webapplication1\\wwwroot\\js\\user.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C251AF3F-A050-48B6-ADF1-F5BF847BB358}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\js\\user.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943900E9-C68B-4185-AB9A-B71173208974}|BusinessObject\\BusinessObject.csproj|d:\\fpt course\\summer2024\\prn221\\code\\class\\assigment3\\businessobject\\postdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{943900E9-C68B-4185-AB9A-B71173208974}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\postdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C251AF3F-A050-48B6-ADF1-F5BF847BB358}|WebApplication1\\WebApplication1.csproj|d:\\fpt course\\summer2024\\prn221\\code\\class\\assigment3\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C251AF3F-A050-48B6-ADF1-F5BF847BB358}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C251AF3F-A050-48B6-ADF1-F5BF847BB358}|WebApplication1\\WebApplication1.csproj|d:\\fpt course\\summer2024\\prn221\\code\\class\\assigment3\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C251AF3F-A050-48B6-ADF1-F5BF847BB358}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C251AF3F-A050-48B6-ADF1-F5BF847BB358}|WebApplication1\\WebApplication1.csproj|d:\\fpt course\\summer2024\\prn221\\code\\class\\assigment3\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C251AF3F-A050-48B6-ADF1-F5BF847BB358}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C251AF3F-A050-48B6-ADF1-F5BF847BB358}|WebApplication1\\WebApplication1.csproj|d:\\fpt course\\summer2024\\prn221\\code\\class\\assigment3\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C251AF3F-A050-48B6-ADF1-F5BF847BB358}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C251AF3F-A050-48B6-ADF1-F5BF847BB358}|WebApplication1\\WebApplication1.csproj|d:\\fpt course\\summer2024\\prn221\\code\\class\\assigment3\\webapplication1\\signalrserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C251AF3F-A050-48B6-ADF1-F5BF847BB358}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\signalrserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C251AF3F-A050-48B6-ADF1-F5BF847BB358}|WebApplication1\\WebApplication1.csproj|d:\\fpt course\\summer2024\\prn221\\code\\class\\assigment3\\webapplication1\\views\\appusers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C251AF3F-A050-48B6-ADF1-F5BF847BB358}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\appusers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C251AF3F-A050-48B6-ADF1-F5BF847BB358}|WebApplication1\\WebApplication1.csproj|d:\\fpt course\\summer2024\\prn221\\code\\class\\assigment3\\webapplication1\\views\\appusers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C251AF3F-A050-48B6-ADF1-F5BF847BB358}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\appusers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943900E9-C68B-4185-AB9A-B71173208974}|BusinessObject\\BusinessObject.csproj|d:\\fpt course\\summer2024\\prn221\\code\\class\\assigment3\\businessobject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{943900E9-C68B-4185-AB9A-B71173208974}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE5ACD9-A4B5-48FC-90EC-D76D5F04E92F}|DataAccess\\DataAccess.csproj|d:\\fpt course\\summer2024\\prn221\\code\\class\\assigment3\\dataaccess\\appuserdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE5ACD9-A4B5-48FC-90EC-D76D5F04E92F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\appuserdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE5ACD9-A4B5-48FC-90EC-D76D5F04E92F}|DataAccess\\DataAccess.csproj|d:\\fpt course\\summer2024\\prn221\\code\\class\\assigment3\\dataaccess\\postdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE5ACD9-A4B5-48FC-90EC-D76D5F04E92F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\postdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE5ACD9-A4B5-48FC-90EC-D76D5F04E92F}|DataAccess\\DataAccess.csproj|d:\\fpt course\\summer2024\\prn221\\code\\class\\assigment3\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FDE5ACD9-A4B5-48FC-90EC-D76D5F04E92F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:36:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\WebApplication1\\Views\\Posts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Posts\\Edit.cshtml",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\WebApplication1\\Views\\Posts\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Posts\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T16:34:52.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\WebApplication1\\Views\\Posts\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Posts\\Index.cshtml",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\WebApplication1\\Views\\Posts\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Posts\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T16:26:12.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "post.js",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\WebApplication1\\wwwroot\\js\\post.js",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\js\\post.js",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\WebApplication1\\wwwroot\\js\\post.js",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\js\\post.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-16T16:23:21.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\WebApplication1\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\PostsController.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\WebApplication1\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\PostsController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADkAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T16:23:12.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T16:11:54.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "user.js",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\WebApplication1\\wwwroot\\js\\user.js",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\js\\user.js",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\WebApplication1\\wwwroot\\js\\user.js",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\js\\user.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-15T07:22:44.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppUsersController.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\WebApplication1\\Controllers\\AppUsersController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AppUsersController.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\WebApplication1\\Controllers\\AppUsersController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AppUsersController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T07:11:38.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-15T07:14:24.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PostDBContext.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\BusinessObject\\PostDBContext.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\PostDBContext.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\BusinessObject\\PostDBContext.cs",
+              "RelativeToolTip": "BusinessObject\\PostDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T06:03:24.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\BusinessObject\\AppUser.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\AppUser.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\BusinessObject\\AppUser.cs",
+              "RelativeToolTip": "BusinessObject\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T05:53:52.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\BusinessObject\\Post.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Post.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\BusinessObject\\Post.cs",
+              "RelativeToolTip": "BusinessObject\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T05:56:10.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\WebApplication1\\Views\\AppUsers\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\AppUsers\\Index.cshtml",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\WebApplication1\\Views\\AppUsers\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\AppUsers\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-15T07:14:06.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BusinessObject.csproj",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\BusinessObject\\BusinessObject.csproj",
+              "RelativeDocumentMoniker": "BusinessObject\\BusinessObject.csproj",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\BusinessObject\\BusinessObject.csproj",
+              "RelativeToolTip": "BusinessObject\\BusinessObject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-15T05:52:17.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\WebApplication1\\Views\\AppUsers\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\AppUsers\\Create.cshtml",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\WebApplication1\\Views\\AppUsers\\Create.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\AppUsers\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T16:53:27.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\WebApplication1\\Views\\Posts\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Posts\\Create.cshtml",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\WebApplication1\\Views\\Posts\\Create.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Posts\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T16:53:38.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T07:17:09.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PostCategory.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\BusinessObject\\PostCategory.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\PostCategory.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\BusinessObject\\PostCategory.cs",
+              "RelativeToolTip": "BusinessObject\\PostCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T05:55:10.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T07:13:12.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SignalRServer.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\WebApplication1\\SignalRServer.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\SignalRServer.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\WebApplication1\\SignalRServer.cs",
+              "RelativeToolTip": "WebApplication1\\SignalRServer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T07:37:03.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\WebApplication1\\Views\\AppUsers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\AppUsers\\Edit.cshtml",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\WebApplication1\\Views\\AppUsers\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\AppUsers\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-15T07:17:03.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\BusinessObject\\appsettings.json",
+              "RelativeDocumentMoniker": "BusinessObject\\appsettings.json",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\BusinessObject\\appsettings.json",
+              "RelativeToolTip": "BusinessObject\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-15T06:04:52.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\WebApplication1\\Views\\AppUsers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\AppUsers\\Delete.cshtml",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\WebApplication1\\Views\\AppUsers\\Delete.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\AppUsers\\Delete.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-15T07:17:14.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppUserDAO.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\DataAccess\\AppUserDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\AppUserDAO.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\DataAccess\\AppUserDAO.cs",
+              "RelativeToolTip": "DataAccess\\AppUserDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T06:56:50.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PostDAO.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\DataAccess\\PostDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\PostDAO.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\DataAccess\\PostDAO.cs",
+              "RelativeToolTip": "DataAccess\\PostDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T06:53:45.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DataAccess.csproj",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\DataAccess\\DataAccess.csproj",
+              "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Code\\Class\\Assigment3\\DataAccess\\DataAccess.csproj",
+              "RelativeToolTip": "DataAccess\\DataAccess.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-15T06:53:22.129Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1205,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1205,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:46:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:54:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
